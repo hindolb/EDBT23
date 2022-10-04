@@ -1,7 +1,6 @@
-# EDBT23
-Paper- Determining Threshold for Partitioning a Dependency Graph in Replica Prefetching in Distributed Systems
+# EDBT23: Paper- Determining Threshold for Partitioning a Dependency Graph in Replica Prefetching in Distributed Systems
 
-Python Jupyter notebook has been used. The instructions below is for opening and using the notebook in Google Colab. Please make suitable modifications in the file path if you are running this on your local system
+Python Jupyter notebook has been used for coding and in-code description. The instructions below is suitable for opening and using the notebook in Google Colab. Please make suitable modifications in the file path if you are running this on your local system.
 
 Pre-requisites
 Python- 3.x
