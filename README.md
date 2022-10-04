@@ -14,10 +14,14 @@ Usage Instructions:
 4. Upload the Jupyter notebook in Google Colab
 5. The text section in the notebook provide the description
 6. Execute the codes sequentially- code running from the middle may face data inavailability and/or dependencies, since codes in previous cells take care of these.
-7. Special note on dataset import and data extraction
-a. For Weblog, execute codes in cell under 3b only. Please ignore codes in cell under 3a and 4
-b. For CYBERSHAKE, GENOME, MONTAGE execute codes in cell under 3a and 4. Please ignore codes in cell under 3b
-c. The default dataset chosen in text cell 3a is MONTAGE. Please read the text on how to change the dataset. Note- This is the only way to switch between dataset (except WEBLOG).
+7. Special note on dataset import and data extraction:- 
+
+    a. For Weblog, execute codes in cell under 3b only. Please ignore codes in cell under 3a and 4   
+  
+    b. For CYBERSHAKE, GENOME, MONTAGE execute codes in cell under 3a and 4. Please ignore codes in cell under 3b
+  
+    c. The default dataset chosen in text cell 3a is MONTAGE. Please read the text on how to change the dataset. Note- This is the only way to switch between dataset (except WEBLOG).
+   
 
 The output are available either as console output (generally results) or are saved under folder ./drive/MyDrive/files
 
